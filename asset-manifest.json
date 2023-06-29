@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/approximation-errors-math-college/static/css/main.34fb435f.css",
+    "main.js": "/approximation-errors-math-college/static/js/main.98655a20.js",
+    "index.html": "/approximation-errors-math-college/index.html",
+    "main.34fb435f.css.map": "/approximation-errors-math-college/static/css/main.34fb435f.css.map",
+    "main.98655a20.js.map": "/approximation-errors-math-college/static/js/main.98655a20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34fb435f.css",
+    "static/js/main.98655a20.js"
+  ]
+}
